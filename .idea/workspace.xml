@@ -1,7 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1a94d34-2c38-4bcc-b8cc-15d3c4b4678d" name="Default" comment="" />
+    <list default="true" id="a1a94d34-2c38-4bcc-b8cc-15d3c4b4678d" name="Default" comment="static css">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/AUTHORS.textile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/README.textile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/TUTORIAL.textile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/icons/cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/icons/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/icons/tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/external.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/feed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/im.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/visited.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/debug/README.textile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/JIGSAW_COPYRIGHT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/css-validator-javadoc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/css-validator.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/jigsaw.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/xerces.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/templates/psd/fixed-width.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/test-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/valid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/users.js.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/users.css.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/users_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20120205223427_create_users.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20120210054622_add_index_to_users_email.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20120210055415_add_password_digest_to_users.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/controllers/users_controller_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/helpers/users_helper_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/user_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/views/users/new.html.erb_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/static pages_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/fancy-type/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/fancy-type/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/rtl/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/rtl/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/debug/debug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/debug/debug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/generate_stylesheets.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/step_definitions/blueprint_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/blueprint_app.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/blueprint_helpers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/document_element.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/element_helpers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/env.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/blueprint.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/compressor.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/core_ext.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/css_parser.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/custom_layout.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/grid.css.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/grid_builder.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/namespace.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/semantic_class_names.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/COPYRIGHT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/XERCES_COPYING.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/compress.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/settings.example.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/validate.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/plugins/link-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/sample.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+    </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,31 +127,17 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="sample_app" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="static_pages.css.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="84" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="3" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <file leaf-file-name="seeds.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -50,64 +145,82 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <file leaf-file-name="user_spec.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="7" selection-start="415" selection-end="415" vertical-scroll-proportion="-11.115385">
+            <state line="41" column="40" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.8200371">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_footer.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.erb">
+      <file leaf-file-name="users_helper_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/helpers/users_helper_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="291" selection-end="291" vertical-scroll-proportion="-5.8846154">
+            <state line="12" column="50" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.erb">
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
+            <state line="25" column="12" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_stylesheets.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/_stylesheets.erb">
+      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="41" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="help.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/static_pages/help.html.erb">
+      <file leaf-file-name="users_controller_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/controllers/users_controller_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="0" selection-end="81" vertical-scroll-proportion="-1.3076923">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_pages_controller.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
+      <file leaf-file-name="spec_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="9" selection-start="97" selection-end="97" vertical-scroll-proportion="0.2084063">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
+      <file leaf-file-name="static_pages_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="64" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.8846154">
+            <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20120210055415_add_password_digest_to_users.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20120210055415_add_password_digest_to_users.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="11" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20120210054622_add_index_to_users_email.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20120210054622_add_index_to_users_email.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,28 +233,33 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-  <component name="GeneratorOptions">
-    <option name="VCS_SHOW_CONFIRMATION" value="true" />
-  </component>
   <component name="Git.Settings">
     <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
     <option name="UPDATE_CHANGES_POLICY" value="STASH" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///IRB console" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///IRB console" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/public/hello.html" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/help.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/_header.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_stylesheets.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_footer.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss" />
-        <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/static_pages_spec.rb" />
+        <option value="$PROJECT_DIR$/test/integration/static pages_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20120205223427_create_users.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/db/migrate/20120210054622_add_index_to_users_email.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
       </list>
     </option>
   </component>
@@ -159,7 +277,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -178,8 +296,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
@@ -209,6 +327,178 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="performance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functional" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="requests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -223,7 +513,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -284,6 +628,24 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -321,46 +683,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -381,7 +703,65 @@
       <recent name="C:\Sites\sample_app\app\views\static_pages" />
     </key>
   </component>
-  <component name="RunManager" selected="Rails.Development: sample_app">
+  <component name="RunManager" selected="RSpec.static_pages_spec">
+    <configuration default="false" name="static_pages_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="sample_app" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="static pages_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="sample_app" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/test/integration/static pages_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -459,7 +839,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote">
       <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
       <method />
@@ -592,11 +972,13 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Rails.Development: sample_app" />
       <item index="1" class="java.lang.String" itemvalue="Rails.Production: sample_app" />
       <item index="2" class="java.lang.String" itemvalue="Rake.spec" />
       <item index="3" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.static_pages_spec" />
+      <item index="5" class="java.lang.String" itemvalue="RSpec.static pages_spec" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -620,6 +1002,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="a1a94d34-2c38-4bcc-b8cc-15d3c4b4678d" name="Default" comment="" />
       <created>1328260581063</created>
       <updated>1328260581063</updated>
     </task>
@@ -629,23 +1012,25 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297619" sideWeight="0.71599567" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6702938" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.20021763" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.71599567" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28400436" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -692,114 +1077,110 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/helpers/users_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/development.sqlite3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120205223427_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="30" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="22" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
+        <state line="2" column="23" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/hello.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="49" selection-start="198" selection-end="198" vertical-scroll-proportion="-5.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/about.erb">
+    <entry file="file://$PROJECT_DIR$/db/test.sqlite3">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="291" selection-end="291" vertical-scroll-proportion="-5.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+    <entry file="file://$PROJECT_DIR$/spec/controllers/users_controller_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="7" selection-start="415" selection-end="415" vertical-scroll-proportion="-11.115385">
+        <state line="25" column="12" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="84" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_stylesheets.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="41" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/static_pages_helper.rb">
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
+    <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="64" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.8846154">
+        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/helpers/users_helper_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="50" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/help.html.erb">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120210054622_add_index_to_users_email.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="0" selection-end="81" vertical-scroll-proportion="-1.3076923">
+        <state line="2" column="6" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120210055415_add_password_digest_to_users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="9" selection-start="97" selection-end="97" vertical-scroll-proportion="0.2084063">
+        <state line="3" column="11" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="40" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.8200371">
           <folding />
         </state>
       </provider>
