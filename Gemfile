@@ -5,7 +5,7 @@ gem 'bootstrap-sass', '2.0.0'
 gem 'bcrypt-ruby', '3.0.1'
 
 group :development, :test , :static_pages_spec do
-  gem 'sqlite3', '1.3.5'
+  gem 'sqlite3-ruby'
   gem 'rspec-rails', '2.8.1'
   gem 'annotate', '~> 2.4.1.beta'
   gem 'taps'
@@ -23,7 +23,6 @@ end
 gem 'jquery-rails'#, '2.0.0'
 
 group :test do
-  gem 'sqlite3', '1.3.5'
   gem 'capybara', '1.1.2'
   gem 'factory_girl_rails', '1.4.0'
 end
