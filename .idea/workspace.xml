@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1a94d34-2c38-4bcc-b8cc-15d3c4b4678d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="sample_app.iws" />
@@ -37,10 +33,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="38" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0">
+            <state line="6" column="26" selection-start="136" selection-end="136" vertical-scroll-proportion="0.16504854">
               <folding />
             </state>
           </provider>
@@ -55,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config_check.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config_check.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://C:/Ruby193/script/config_check.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="47" selection-start="2597" selection-end="2597" vertical-scroll-proportion="0.44310346">
+            <state line="80" column="47" selection-start="2597" selection-end="2597" vertical-scroll-proportion="-42.92">
               <folding />
             </state>
           </provider>
@@ -153,9 +149,9 @@
         <option value="$PROJECT_DIR$/app/views/layouts/_header.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.scss" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="C:/Ruby193/setup_environment.bat" />
         <option value="C:/Ruby193/script/config_check.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -764,7 +760,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896176" sideWeight="0.48095238" order="7" side_tool="false" content_ui="tabs" />
@@ -917,13 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="38" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby193/setup_environment.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="9" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0">
@@ -933,7 +922,14 @@
     </entry>
     <entry file="file://C:/Ruby193/script/config_check.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="47" selection-start="2597" selection-end="2597" vertical-scroll-proportion="0.44310346">
+        <state line="80" column="47" selection-start="2597" selection-end="2597" vertical-scroll-proportion="-42.92">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="136" selection-end="136" vertical-scroll-proportion="0.16504854">
           <folding />
         </state>
       </provider>
